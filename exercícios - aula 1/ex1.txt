@@ -1,0 +1,1 @@
+Enquanto o banco de dados usa tabelas para organizar dados ou informações relacionadas, o SGBD é um software para manipulação dos bancos de dados.

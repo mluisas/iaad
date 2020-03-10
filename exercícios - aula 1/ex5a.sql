@@ -1,0 +1,1 @@
+SELECT numero_pedido, codigo_produto FROM item_pedidos WHERE codigo_produto='403';
